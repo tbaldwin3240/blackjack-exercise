@@ -1,0 +1,5 @@
+5. Hit me
+    -when the “Hit” button is clicked, deal one more card to the player (use the same card image),
+    and then another to the dealer
+         *is there any code here that is repeated? is there a way to write a function to deal from
+        the card to whichever player we chose?
