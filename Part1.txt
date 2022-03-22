@@ -1,0 +1,14 @@
+1. Familiarise yourself with the HTML and JS
+    -some of the HTML elements:
+        -classes: message-box, table, player, player-name, points, hand
+        -images, labels
+        -buttons (styled in a flexbox)
+    -JS elements:
+        - .window.addEventListener(‘DOMContentLoaded’, function () {
+            //Execute after page load
+        })
+            -working with the BOM and the DOM
+            -attaching an event handler to the specified element
+            -DOMContentLoaded event fires when the initial HTML document has been completely
+            loaded and parsed, without waiting for stylesheets, images, and subframes to
+            finish loading
