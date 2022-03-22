@@ -1,0 +1,4 @@
+2. Style the page
+    -style the page to make it look like a card table
+        -don’t spend too much time on this!
+    -there’s also an example stylesheet in the extras folder; you can link that in your HTML file
