@@ -1,0 +1,6 @@
+3. Cards on the table
+    -“hard-code” the cards first, then write JS to add the right card later
+        -“hard coding” means to put something into your source code; embedding output or
+        configuration data directly into the source code of a program
+    -first, add the HTML for an img tag inside of the #dealer-hand or #player-hand element
+        -link (src attribute) card images to these elements
