@@ -1,0 +1,12 @@
+4. Dealing the cards
+    -once you have an idea of how you want the HTML to look, you can remove the cards from step 3
+    -now you can generate them dynamically with JS
+    -when the “Deal” button is clicked, deal 4 times
+        -player
+        -dealer
+        -player
+        -dealer
+     -you will need to attach an event listener to the button
+        -create a new img element
+    -append the new img to the #dealer-hand and #player-hand elements
+        -you can just use the same card
