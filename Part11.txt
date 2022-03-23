@@ -1,5 +1,4 @@
 11. Calculate Points for a Hand
     -write a calculatePoints function
         -this function will take in an array of card objects and return the points for that hand
-            -will also need to assign point values to the cards (rank does not equal point value)12. Display Points
-    -after dealing any card, display the current points for the dealer and the player
+            -will also need to assign point values to the cards (rank does not equal point value)
