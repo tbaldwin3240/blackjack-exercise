@@ -1,0 +1,7 @@
+9. Render Hands
+    -now that we can create an image based on a card object, we need to display the player hand and the
+    dealer hand on the page
+        -write a render function
+            -this will loop over the dealerHand and playerHand arrays and append a new card img to the
+            appropriate elements for each card in the hands
+            -may want to add the ability to display the current points for the dealer and the player
