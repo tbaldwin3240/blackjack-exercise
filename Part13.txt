@@ -1,0 +1,7 @@
+13. Busts
+    -check for busts after each card is dealt
+        -a bust is when either the dealer or the player’s hand go over 21 points; when you bust, you lose
+            -maybe add a for loop and an if condition
+        -if there is a bust, display a message on the page saying that they busted
+            -add an alert
+            -there is a div with an id of messages already on the page
