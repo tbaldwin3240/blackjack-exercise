@@ -1,0 +1,6 @@
+8. Image from Cards
+    -in order to put a card visually on the page, you need to insert an _ tag
+    -before, you were displaying images using the hard-coded URL for a specific card
+    -now, you want to use the card objects to set the src attribute based on the card object
+        -write a getCardImage function; this will take a card object and return an img element that
+        has the right img URL for that card
