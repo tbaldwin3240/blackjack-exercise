@@ -1,0 +1,4 @@
+14. Player Stand
+    -when the “Stand” button is clicked, the player doesn’t want any more cards
+    -deal cards to the dealer until they reach 17 points or more
+        -for loop; break the loop when the dealerHand is 17 >=  points
