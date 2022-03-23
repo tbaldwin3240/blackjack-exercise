@@ -1,0 +1,7 @@
+10. Shuffle the Deck
+    -write a function to shuffle the deck; here are some strategies:
+        -for a fixed number of times, randomly choose 2 cards within the deck and swap them
+        -make a new array, randomly choose one card after another from the original array and push it
+        to the new array
+        -search on StackOverflow for a solution to “shuffle a JS array”
+    -use the shuffle function to shuffle the deck when you hit the deal button, but before you deal the cards
