@@ -1,0 +1,34 @@
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="blackjack.css" />
+    <meta charset="utf-8" />
+    <title>blackjack-exercise</title>
+  </head>
+  <body>
+    <h1>BlackJack</h1>
+    <div class="textupdates" id="textUpdates">Press 'New Game' to begin!</div>
+    <div class="buttonbox" id="newgame">
+      <button alt="play" id="play">New Game</button>
+    </div>
+    <div class="buttonbox hidden" id="buttonBox">
+      <button alt="hit" id="hit">Hit</button>
+      <button alt="stay" id="stay">Stay</button>
+    </div>
+    <table>
+      <tr>
+        <th id="phand">My Hand</th>
+        <th id="dhand">Dealer's Hand</th>
+      </tr>
+      <tr>
+        <td id="pcards">No cards deal yet</td>
+        <td id="dcards">No cards deal yet</td>
+      </tr>
+    </table>
+    <div id="buttonbox">
+      <p><span class="bold">simple strategy suggestion:</span></p>
+      <span id="choice" class="bold redcard"></span>
+      <img src="img/stractchat.png" />
+    </div>
+    <script src="blackjack.js"></script>
+  </body>
+</html>
