@@ -1,0 +1,2 @@
+12. Display Points
+    -after dealing any card, display the current points for the dealer and the player
