@@ -1,0 +1,12 @@
+7. Deal the Deck
+    -now that you have a deck, you want to use it
+    -need to make something to represent the player and dealer hands
+        -make two arrays
+            -dealerHand
+            -playerHand
+        -you’ll use these arrays later to calculate the total points for the hand
+    -adjust the code so that when we click the “Deal” button, it will remove a card from the deck,
+    then place that card into the playerHand array
+        -need to add an event listener that waits for the “Deal” button to be clicked
+        *is there an array method that allows us to remove and return an item from an array?
+        -gameplay should still deal the same as before: 1 card each to player, dealer, player, dealer
